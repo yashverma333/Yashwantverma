@@ -842,10 +842,10 @@ span{
     .header {
         background:  var(--bg-color);
     }
-    /* #menu-icon {
+     #menu-icon {
         display: block;
-    } */
-    /* .navbar {
+    } 
+     .navbar {
         position: absolute;
         top: 100%;
         left: -100%;
@@ -886,9 +886,9 @@ span{
         transition-delay: 0s;
     }
     .navbar.active a {
-        transform: translateX(0);
+        transform: translateX(0); 
         transition-delay: .25s;
-    } */
+    }
     img{
         height: 200px ;
         width: 200px;
